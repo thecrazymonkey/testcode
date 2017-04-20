@@ -1,1 +1,1 @@
-Simple server based on Jersey/Grizzly for HTTP/2 ttesting using JSON payload
+Simple server based on Jersey/Grizzly for HTTP/2 testing using JSON payload
